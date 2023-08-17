@@ -1,5 +1,5 @@
 [package]
-name = "my_psp22"
+name = "robin_psp22_testing"
 version = "1.0.0"
 edition = "2021"
 authors = ["The best developer ever"]
